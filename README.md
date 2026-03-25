@@ -1,4 +1,4 @@
-# Rate Limiter Token Bucket API
+# rate-limiter-tokenbucket-api
 
 Spring Boot API that demonstrates a per-user token bucket rate limiter.
 
